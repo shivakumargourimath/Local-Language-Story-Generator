@@ -1,0 +1,11 @@
+# Backend Dependencies (Node.js)
+# Install using: npm install
+# Located in /backend/package.json
+
+# Frontend Dependencies (React)
+# Install using: npm install
+# Located in /frontend/package.json
+
+# API Keys Required:
+# - GROQ_API_KEY: Get from https://console.groq.com
+# - ELEVENLABS_API_KEY: Get from https://elevenlabs.io/app/settings/api-keys
