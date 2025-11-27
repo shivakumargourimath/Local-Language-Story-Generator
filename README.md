@@ -5,7 +5,7 @@ A full-stack web application that generates personalized bedtime stories in mult
 ## ✨ Features
 
 - 🎭 **Personalized Stories**: Generate unique stories featuring the child's name
-- 🌍 **Multi-Language Support**: Hindi, Kannada, Tamil, Telugu, Marathi, Bengali, Gujarati, and English
+- 🌍 **Multi-Language Support**: Kannada, Tamil, Telugu,Hindi, Marathi, Bengali, Gujarati, and English
 - 🎤 **AI Text-to-Speech**: High-quality audio narration using ElevenLabs API
 - 📖 **Story History**: Save and revisit your favorite stories
 - 🎨 **Beautiful UI**: Modern, responsive design with Tailwind CSS
